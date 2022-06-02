@@ -2,9 +2,12 @@
 You can create backlog tickets from formatted excel file.
 
 # How to use
+
+```bash
 export ENDPOINT_URL=https://<your-backlog-endpoint> # without tracing slash  
 export API_KEY=<your-api-key>  
 go run <excel_file_path>   
+```
 
 # Excel file format
 Example.  
