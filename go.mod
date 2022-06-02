@@ -1,4 +1,4 @@
-module taiki.takenaka/excel-diff
+module regmarmcem/backlog_client
 
 go 1.17
 
